@@ -1,9 +1,17 @@
-body{
+/*body{
     background-image: url('../images/wisetree.jpg');
-}
+}*/
 h1{
     color: blue;
 }
 h2{
     color: blue;
 }
+
+  #links {
+    background-color: rgb(230, 129, 14);
+    color: white;
+    font-size: 25px;
+    border-radius: 10px;
+    
+  }
