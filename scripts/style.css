@@ -9,9 +9,21 @@ h2{
 }
 
   #links {
+    display: inline-block;
     background-color: rgb(230, 129, 14);
     color: white;
     font-size: 25px;
     border-radius: 10px;
-    
+    width: 200px;
+    text-align: center;
+    margin: 10px 0;
+  }
+
+  #links a {
+    text-decoration: none;
+  }
+
+  #dacc img {
+    height: 300px;
+    width: 300px;
   }
