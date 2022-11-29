@@ -27,3 +27,8 @@ h2{
     height: 300px;
     width: 300px;
   }
+
+  /* change background color */
+  .bg {
+    background-color: rgb(112, 140, 152);
+  }
